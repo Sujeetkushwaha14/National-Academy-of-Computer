@@ -20,3 +20,6 @@ li a{
 button{
   background-color: slategray; margin-left: 11px; border-radius: 11px; padding: 8px; width: 85px;
 }
+body{
+  background-color: aquamarine;
+}
